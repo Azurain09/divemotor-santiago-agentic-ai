@@ -1,0 +1,5 @@
+# This project is an extension for the tau2-bench framework.
+# Install the upstream framework and its dependencies first:
+# https://github.com/sierra-research/tau2-bench
+
+pytest
